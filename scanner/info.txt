@@ -1,0 +1,2 @@
+info
+python scanner.py http://testphp.vulnweb.com/login.php?username=test&password=test
